@@ -60,7 +60,7 @@ The AI Web Scraper is a Python-based application designed to scrape websites dyn
 ### Starting the Streamlit UI
 Run the following command to start the Streamlit-based user interface:
 ```bash
-streamlit run app.py
+streamlit run scrap.py
 ```
 
 ### Web Scraping with Selenium
